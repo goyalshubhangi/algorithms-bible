@@ -10,6 +10,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 
 ## Contributors
 - [Shubhangi](https://github.com/goyalshubhangi)
+- [Leon-Gee](https://github.com/Leon-Gee)
 
 ## How to contribute
 - Fork this repository
