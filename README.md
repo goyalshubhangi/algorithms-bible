@@ -11,6 +11,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 ## Contributors
 - [Shubhangi](https://github.com/goyalshubhangi)
 - [Faisal](https://github.com/faisalAkhtar)
+- [Aadil](https://github.com/aadiltajani)
 
 ## How to contribute
 - Fork this repository
