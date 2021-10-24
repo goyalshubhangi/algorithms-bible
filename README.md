@@ -1,3 +1,6 @@
+
+![](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
+
 ## Leetcode Solutions
 - [Here is a list of problem questions](https://leetcode.com/problemset/all/).
 - You can use any language of your choice, just add it in the respective directory
@@ -9,13 +12,7 @@
 Hacktoberfest is open to everyone in our global community! Four quality pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31. Support open source and pick a limited edition T-shirt or plant a tree.
 
 ## Contributors
-- [Shubhangi](https://github.com/goyalshubhangi)
-- [Faisal](https://github.com/faisalAkhtar)
-- [Wasisto](https://github.com/tiramisubliss)
-- [Ishita](https://github.com/ishitajaiswal4m)
-- [Rachit](https://github.com/rachitjindal56)
-- [Aditi Tiwari](https://github.com/Adititiwari02)
-- [Piyush228](https://github.com/Piyush228)
+![Contributors](https://contrib.rocks/image?repo=goyalshubhangi/leetcode-problems)
 
 ## How to contribute
 - Fork this repository
